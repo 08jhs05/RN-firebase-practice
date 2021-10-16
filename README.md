@@ -1,1 +1,0 @@
-# RN-firebase-practice
